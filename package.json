@@ -1,0 +1,20 @@
+{
+  "name": "openai-agent",
+  "version": "1.0.0",
+  "description": "An agent built with OpenAI Node.js SDK",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "keywords": [
+    "openai",
+    "agent",
+    "node.js"
+  ],
+  "author": "Your Name",
+  "license": "ISC",
+  "dependencies": {
+    "openai": "^0.0.1",
+    "dotenv": "^8.2.0"
+  }
+}
